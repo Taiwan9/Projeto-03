@@ -565,25 +565,7 @@ footer p:nth-of-type(2){
         margin-top: 20px;
     }
 
-        .map-wraper{
-        margin-top: 20px;
-        float: none;
-        width: 100%;
-        padding: 0 4%;
-        margin-top: 40px;
-    }
-
-    .map-wraper3{
-        margin-top: 10px;
-        width: 80%;
-        max-width: none;
-        display: inline-block;
-        position: relative;
-    }
-
-    .map{
-        width: 80%;
-    }
+    
 
     footer{
         text-align: center;
